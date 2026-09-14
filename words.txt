@@ -1,0 +1,500 @@
+apple|A common fruit often associated with keeping doctors away
+banana|A long yellow fruit
+orange|A citrus fruit and also a color
+mango|A sweet tropical fruit with juicy flesh
+grape|A small fruit that grows in bunches
+lemon|A yellow citrus fruit with a sour taste
+peach|A soft fruit with fuzzy skin and a stone inside
+cherry|A small red fruit often found on desserts
+papaya|A tropical fruit with orange flesh and black seeds
+guava|A tropical fruit that can have pink or white flesh
+melon|A large juicy fruit often eaten in summer
+kiwi|A small brown fruit with green flesh and tiny black seeds
+coconut|A tropical fruit with a hard shell and white flesh
+avocado|A green fruit commonly mashed into guacamole
+pineapple|A tropical fruit with a rough spiky outside
+strawberry|A red fruit covered in tiny seeds
+watermelon|A large green fruit with juicy red flesh
+blueberry|A small round blue-purple fruit
+raspberry|A soft red berry made of many small sections
+blackberry|A dark berry made of many tiny round sections
+computer|An electronic machine that processes information
+keyboard|A device used to type letters and numbers
+monitor|A screen used to display computer output
+printer|A machine that puts digital documents onto paper
+browser|Software used to access websites
+internet|A worldwide network connecting computers
+website|A collection of pages available online
+program|A set of instructions that a computer follows
+software|Programs and instructions used by computers
+hardware|The physical parts of a computer
+database|An organized collection of information
+server|A computer that provides services to other computers
+network|A group of connected computers or devices
+password|Secret characters used to protect an account
+algorithm|A step-by-step method for solving a problem
+variable|A named place used to store a changing value
+function|A reusable block of code that performs a task
+integer|A whole number without a fractional part
+boolean|A data type with true or false values
+compiler|A program that translates source code
+developer|A person who creates software
+debugging|The process of finding and fixing program errors
+library|A collection of reusable code
+class|A blueprint used to create objects in programming
+object|An instance created from a class
+method|A function defined inside a class
+inheritance|A programming concept where one class gets features from another
+polymorphism|A programming concept allowing one interface to have different forms
+encapsulation|Keeping data and related operations together
+abstraction|Hiding unnecessary implementation details
+recursion|A technique where a function calls itself
+array|A collection of elements stored in an indexed structure
+stack|A data structure that follows last-in first-out
+queue|A data structure that follows first-in first-out
+linkedlist|A data structure made of connected nodes
+pointer|A variable that stores a memory address
+memory|The area where a computer stores data
+process|A program currently being executed
+thread|A small sequence of instructions within a process
+objectives|Goals that someone wants to achieve
+school|A place where students learn
+college|An institution where students pursue higher education
+teacher|A person who helps others learn
+student|A person who is learning
+classroom|A room where lessons take place
+homework|School work completed outside class
+exam|A test used to measure knowledge
+project|A planned piece of work with a specific goal
+subject|An area of study
+science|The systematic study of the natural world
+history|The study of past events
+geography|The study of places and the Earth's surface
+language|A system used for communication
+mathematics|The study of numbers, shapes, and patterns
+physics|The study of matter, energy, and forces
+chemistry|The study of substances and how they interact
+biology|The study of living organisms
+engineer|A person who designs or builds technical solutions
+doctor|A medical professional who treats patients
+pilot|A person who flies an aircraft
+chef|A professional cook
+artist|A person who creates art
+musician|A person who creates or performs music
+actor|A person who performs in movies or plays
+writer|A person who writes books or other works
+photographer|A person who takes photographs
+athlete|A person who competes in sports
+football|A sport played with a ball and goals
+cricket|A bat-and-ball sport especially popular in South Asia
+basketball|A sport where players try to score through a hoop
+baseball|A bat-and-ball sport played with bases
+tennis|A racket sport played across a net
+badminton|A racket sport played with a shuttlecock
+volleyball|A team sport played by hitting a ball over a net
+swimming|Moving through water using your body
+running|Moving quickly on foot
+cycling|Riding a bicycle
+wrestling|A sport involving grappling with an opponent
+boxing|A combat sport involving punches
+stadium|A large venue where sporting events are held
+player|A person who takes part in a game
+captain|The leader of a sports team
+tournament|A competition involving multiple players or teams
+champion|The winner of a competition
+victory|Success in a contest or battle
+score|The number of points earned in a game
+goalkeeper|A player whose main job is to protect a goal
+referee|An official who enforces the rules of a game
+restaurant|A place where people pay to eat meals
+kitchen|A room where food is prepared
+breakfast|The first meal of the day
+lunch|A meal usually eaten around midday
+dinner|The main evening meal
+sandwich|Food made by placing filling between slices of bread
+pizza|A baked dish with dough, sauce, and toppings
+burger|A sandwich usually containing a cooked patty
+noodles|Long thin strands of dough commonly eaten as food
+chocolate|A sweet food made from cocoa
+icecream|A frozen sweet dessert
+popcorn|A snack made by heating corn kernels
+pancake|A flat cake cooked in a pan
+cookie|A small sweet baked treat
+biscuit|A small baked snack that can be sweet or savory
+cheese|A food made from milk
+butter|A dairy product commonly spread on bread
+honey|A sweet substance made by bees
+sugar|A sweet substance used in many foods and drinks
+coffee|A drink made from roasted coffee beans
+tea|A drink made by steeping leaves in hot water
+juice|A drink made from the liquid of fruits or vegetables
+water|A clear liquid essential for life
+schoolbag|A bag used to carry school supplies
+backpack|A bag carried on a person's back
+notebook|A book of blank or lined pages for writing
+pencil|A writing tool containing graphite
+eraser|An object used to remove pencil marks
+scissors|A tool with two blades used for cutting
+bottle|A container commonly used for liquids
+umbrella|An object used to protect against rain
+wallet|A small case used to carry money and cards
+watch|A device worn or carried to tell time
+camera|A device used to take photographs
+telephone|A device used for communicating over distance
+headphones|A device worn over the ears for listening to sound
+television|An electronic device used to watch programs
+refrigerator|An appliance used to keep food cold
+microwave|An appliance that heats food using electromagnetic waves
+toothbrush|A tool used to clean teeth
+toothpaste|A paste used when brushing teeth
+bedroom|A room where people usually sleep
+bathroom|A room containing facilities for washing
+bed|Furniture used for sleeping
+pillow|A soft object placed under the head while sleeping
+blanket|A covering used to keep warm
+window|An opening in a wall that lets in light
+door|A movable barrier used to enter or leave a room
+chair|A piece of furniture designed for sitting
+table|Furniture with a flat surface supported by legs
+mirror|A surface that reflects an image
+garden|An area where plants and flowers are grown
+mountain|A large natural elevation of land
+river|A natural stream of flowing water
+ocean|A very large body of salt water
+forest|A large area covered mainly by trees
+desert|A dry region that receives very little rain
+island|Land completely surrounded by water
+beach|A sandy or pebbly area beside water
+volcano|An opening in Earth's surface through which lava can emerge
+waterfall|Water dropping from a height over a cliff or rock
+valley|Low land between hills or mountains
+canyon|A deep narrow valley with steep sides
+cave|A natural hollow space inside rock
+planet|A large body that orbits a star
+galaxy|A huge collection of stars, gas, and dust
+universe|Everything that exists, including space and matter
+sunlight|Light that comes from the Sun
+moonlight|Light reflected from the Moon
+star|A massive glowing object in space
+comet|An icy object that can develop a glowing tail near the Sun
+asteroid|A rocky object that orbits the Sun
+satellite|An object that orbits a planet or other body
+astronaut|A person trained to travel in space
+rocket|A vehicle propelled by powerful engines, often used for space travel
+telescope|An instrument used to observe distant objects
+gravity|The force that attracts objects toward each other
+earthquake|A sudden shaking of the ground
+thunder|The loud sound produced by lightning
+lightning|A powerful electrical discharge in the atmosphere
+rainbow|A colorful arc that can appear after rain
+weather|The condition of the atmosphere at a particular time
+cloud|A visible mass of water droplets or ice in the sky
+rain|Water falling from clouds
+snow|Frozen precipitation made of ice crystals
+storm|A period of disturbed weather
+wind|Moving air
+temperature|A measure of how hot or cold something is
+spring|The season between winter and summer
+summer|The warmest season of the year
+autumn|The season between summer and winter
+winter|The coldest season of the year
+morning|The early part of the day
+afternoon|The part of the day after midday
+evening|The later part of the day before night
+midnight|Twelve o'clock at night
+calendar|A system used to organize days, weeks, and months
+holiday|A day set aside for celebration or rest
+birthday|The yearly celebration of the day someone was born
+festival|A special event celebrating something
+wedding|A ceremony celebrating the marriage of two people
+family|A group of people related to one another
+friendship|A close relationship between friends
+happiness|A feeling of joy or satisfaction
+adventure|An exciting or unusual experience
+journey|Travel from one place to another
+vacation|A period spent away from normal work or school
+airport|A place where aircraft take off and land
+airplane|A powered aircraft with wings
+train|A series of connected railway vehicles
+station|A place where trains or other transport stop
+bicycle|A two-wheeled vehicle powered by pedaling
+motorcycle|A two-wheeled motor vehicle
+highway|A major road designed for fast travel
+traffic|Vehicles moving along roads
+bridge|A structure built to cross an obstacle
+vehicle|A machine used to transport people or goods
+passport|An official document used for international travel
+suitcase|A case used for carrying clothes while traveling
+hotel|A place where travelers can pay to stay
+ticket|A document that gives access to a journey or event
+museum|A place where historical or cultural objects are displayed
+cinema|A place where movies are shown
+theater|A place where plays or performances are presented
+concert|A live performance of music
+movie|A recorded visual story shown on a screen
+song|A piece of music with vocals or lyrics
+guitar|A musical instrument with strings
+piano|A keyboard instrument with strings struck by hammers
+drums|Musical instruments played by striking them
+violin|A small string instrument played with a bow
+trumpet|A brass instrument played by blowing through it
+dance|A series of movements performed to music
+painting|An artwork created using paint
+sculpture|Three-dimensional artwork shaped from materials
+drawing|A picture created using lines and marks
+photograph|An image captured by a camera
+novel|A long fictional story in book form
+poem|A piece of writing that often uses rhythm and imagery
+story|A narrative about events or characters
+author|A person who writes a book or other work
+character|A person or figure in a story
+mystery|Something difficult to explain or understand
+treasure|Valuable objects that are hidden or discovered
+castle|A large fortified building from earlier times
+kingdom|A country or territory ruled by a king or queen
+princess|A female member of a royal family
+knight|A medieval warrior traditionally associated with horses and armor
+dragon|A legendary creature often shown as a large winged reptile
+wizard|A fictional person believed to use magic
+pirate|A person who attacks and robs ships at sea
+robot|A machine capable of performing tasks automatically
+superhero|A fictional character with extraordinary abilities
+vampire|A mythical creature said to survive by drinking blood
+monster|A frightening imaginary or legendary creature
+ghost|A supernatural spirit of a dead person
+schoolboy|A boy who attends school
+schoolgirl|A girl who attends school
+brother|A male sibling
+sister|A female sibling
+mother|A female parent
+father|A male parent
+cousin|A child of your aunt or uncle
+uncle|The brother of a parent or the husband of an aunt
+aunt|The sister of a parent or the wife of an uncle
+neighbor|A person who lives nearby
+sunrise|The time when the Sun first appears above the horizon
+sunset|The time when the Sun disappears below the horizon
+shadow|A dark area created when an object blocks light
+magnet|An object that attracts certain metals
+battery|A device that stores chemical energy and provides electricity
+electricity|A form of energy associated with electric charge
+energy|The ability to do work or cause change
+machine|A device designed to perform a task
+engine|A machine that converts energy into motion
+wheel|A circular object that rotates around an axle
+clock|A device that shows the time
+key|An object used to open a lock
+lock|A device used to prevent something from being opened
+rope|A strong length of twisted fibers or strands
+hammer|A tool with a heavy head used for striking
+ladder|A structure with steps used for climbing
+basket|A container made for carrying or holding things
+box|A container with flat sides
+bucket|A container with a handle used for carrying liquids or materials
+broom|A cleaning tool with bristles
+towel|A cloth used for drying
+soap|A substance used for washing
+shampoo|A liquid used for washing hair
+comb|An object with teeth used to arrange hair
+clothing|Items worn on the body
+jacket|A short outer garment worn on the upper body
+shirt|A garment worn on the upper body
+trousers|A garment covering each leg separately
+shoes|Items worn on the feet
+socks|Clothing worn on the feet inside shoes
+hat|An item worn on the head
+gloves|Clothing worn on the hands
+scarf|A strip of fabric worn around the neck
+pocket|A small sewn compartment in clothing or a bag
+button|A small object used to fasten clothing
+nurse|A healthcare professional who cares for patients
+hospital|A place where sick or injured people receive treatment
+medicine|A substance used to prevent or treat disease
+health|The condition of a person's body and mind
+exercise|Physical activity done to improve fitness
+muscle|A body tissue that produces movement
+skeleton|The framework of bones supporting the body
+heart|An organ that pumps blood around the body
+brain|The organ that controls the nervous system
+stomach|An organ that helps digest food
+finger|One of the digits on a hand
+thumb|The short thick digit on the side of the hand
+shoulder|The joint connecting the arm to the body
+knee|The joint between the thigh and lower leg
+tooth|A hard structure in the mouth used for biting
+hair|Fine strands growing from the skin
+animal|A living organism that can usually move and respond to its environment
+elephant|The largest living land animal
+tiger|A large striped wild cat
+lion|A large wild cat known for its mane
+leopard|A spotted wild cat known for climbing
+cheetah|The fastest land animal
+giraffe|A very tall animal with a long neck
+zebra|A horse-like animal with black and white stripes
+monkey|A primate often associated with trees
+gorilla|A large powerful primate
+panda|A black-and-white bear that mainly eats bamboo
+kangaroo|An Australian animal that moves by jumping
+penguin|A flightless bird that is an excellent swimmer
+dolphin|A highly intelligent marine mammal
+whale|A huge marine mammal
+shark|A large fish with a streamlined body and sharp teeth
+octopus|A sea animal with eight arms
+turtle|A reptile protected by a hard shell
+crocodile|A large reptile with powerful jaws
+snake|A long legless reptile
+eagle|A large bird of prey
+parrot|A colorful bird capable of copying sounds
+owl|A bird known for being active at night
+butterfly|An insect with large colorful wings
+rabbit|A small mammal with long ears
+horse|A large animal commonly ridden by people
+donkey|A domesticated animal related to the horse
+cow|A farm animal commonly raised for milk
+sheep|A farm animal raised for wool and meat
+goat|A farm animal known for climbing and eating many plants
+chicken|A common farm bird that lays eggs
+duck|A water bird with webbed feet
+frog|An amphibian that can jump
+spider|An eight-legged creature that often makes webs
+ant|A tiny social insect that lives in colonies
+bee|An insect known for making honey
+mosquito|A small flying insect whose females can bite humans
+market|A place where goods are bought and sold
+shop|A place where goods are sold
+office|A place where professional or administrative work is done
+factory|A building where goods are manufactured
+farm|Land used for growing crops or raising animals
+village|A small settlement, usually smaller than a town
+city|A large and densely populated urban area
+country|A nation or a rural area, depending on context
+capital|The main city where a government is based
+building|A structure with walls and a roof
+apartment|A set of rooms forming a home within a larger building
+house|A building used as a home
+street|A public road in a town or city
+park|A public area of land used for recreation
+temple|A building used for religious worship
+church|A building used for Christian worship
+mosque|A building used for Muslim worship
+bakery|A shop where bread and baked goods are made or sold
+pharmacy|A place where medicines are prepared or sold
+university|An institution for advanced education and research
+laboratory|A place equipped for scientific experiments
+workplace|A place where someone works
+meeting|A gathering of people for discussion
+business|An organization or activity involving buying and selling
+company|An organization that provides goods or services
+manager|A person responsible for controlling or organizing work
+employee|A person who works for an organization
+customer|A person who buys goods or services
+product|Something made or sold for people to use
+service|Work performed for someone else
+money|A medium commonly used to buy goods and services
+price|The amount of money required to buy something
+salary|Regular payment received for employment
+profit|Money remaining after costs are subtracted from revenue
+budget|A plan for how money will be spent
+credit|An arrangement allowing payment or borrowing under agreed terms
+account|A record or arrangement used to manage information or money
+bank|An institution that manages money and provides financial services
+currency|A system of money used in a country
+future|The time that has not yet happened
+present|The time happening now
+past|The time that has already happened
+minute|A unit of time equal to sixty seconds
+second|A unit of time equal to one sixtieth of a minute
+hour|A unit of time equal to sixty minutes
+week|A period of seven days
+month|A period roughly based on one cycle of the Moon
+year|A period of about 365 days
+number|A mathematical value used for counting or measuring
+circle|A round shape with every point equally distant from its center
+square|A shape with four equal sides and four right angles
+triangle|A shape with three sides
+rectangle|A four-sided shape with four right angles
+diamond|A gemstone or a four-sided shape with equal sides
+pattern|A repeated design or arrangement
+color|A visual property produced by different wavelengths of light
+picture|A visual representation of something
+sound|Something that can be heard
+music|Organized sound intended to be listened to
+voice|Sound produced by a person's speech
+smile|A facial expression showing happiness or friendliness
+laugh|A sound or expression caused by amusement
+dream|A series of thoughts or images experienced during sleep
+idea|A thought or concept
+question|A sentence or phrase asking for information
+answer|A response to a question
+problem|A situation requiring a solution
+solution|An answer or method that solves a problem
+reason|A cause or explanation for something
+example|Something used to demonstrate an idea
+knowledge|Information and understanding gained through learning
+wisdom|The ability to use knowledge and experience well
+communication|The exchange of information between people
+conversation|A spoken or written exchange between people
+message|Information sent from one person to another
+letter|A written or printed character or a written communication
+email|An electronic message sent over the internet
+application|A software program designed for a particular purpose
+mobile|A device or object designed to be moved; also short for mobile phone
+phone|A device used to communicate with others
+video|A recording of moving images
+screen|A surface on which images or information are displayed
+game|An activity played for entertainment or competition
+puzzle|A problem or game designed to test skill or knowledge
+challenge|A difficult task that requires effort
+winner|The person or team that wins
+loser|The person or team that does not win
+level|A stage or degree within a system or game
+chance|The possibility that something will happen
+choice|An act of selecting between possibilities
+decision|A conclusion reached after considering options
+success|The achievement of a desired result
+failure|A lack of success
+effort|The amount of energy used to accomplish something
+practice|Repeated activity done to improve a skill
+skill|An ability developed through learning or practice
+talent|A natural ability to do something well
+goal|Something a person aims to achieve
+leader|A person who guides or directs others
+team|A group of people working together
+friend|A person with whom you have a close relationship
+enemy|A person or group opposed to another
+stranger|A person you do not know
+person|An individual human being
+people|Human beings in general or as a group
+world|The Earth and its inhabitants
+nature|The physical world and living things not made by humans
+environment|The surroundings in which living things exist
+earth|The planet on which humans live
+space|The vast region beyond Earth's atmosphere
+technology|The practical application of scientific knowledge
+innovation|A new idea, method, or invention
+invention|Something newly created or designed
+discovery|Something found or learned for the first time
+experiment|A scientific test performed to investigate an idea
+theory|An explanation supported by evidence and reasoning
+research|Systematic investigation to discover information
+education|The process of learning and teaching
+destination|The place someone is traveling toward
+direction|The course or path something follows
+north|One of the four main compass directions
+south|The compass direction opposite north
+east|The direction where the Sun appears to rise
+west|The direction where the Sun appears to set
+map|A representation of an area showing places and features
+compass|An instrument used to find directions
+jungle|A dense tropical forest
+lake|A large body of water surrounded by land
+pond|A small body of still water
+hill|A naturally raised area smaller than a mountain
+flower|The colorful reproductive part of many plants
+tree|A tall plant with a woody trunk
+plant|A living organism that usually grows in soil and makes its own food
+grass|A common plant with narrow green leaves
+leaf|A plant structure usually used for photosynthesis
+root|The part of a plant that usually grows underground
+seed|A plant structure capable of growing into a new plant
+fruit|The mature structure of a flowering plant that often contains seeds

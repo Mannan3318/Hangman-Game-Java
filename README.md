@@ -2,31 +2,31 @@
 
 ## About
 
-Hangman is a game that many of us played as children. As a beginner in Java, I wanted to recreate this classic game to strengthen my understanding of programming fundamentals such as loops, conditionals, methods, arrays, and user input.
+Hangman is a classic word-guessing game where the player tries to guess a hidden word one letter at a time before running out of attempts.
 
-This project helped me gain hands-on experience with problem-solving and writing clean, structured code while building a fun console-based application.
+I built this project to strengthen my understanding of Java fundamentals and get hands-on experience building a complete console-based application.
+
+The game uses a word file containing 500 words along with individual hints. A random word is selected for each game, and the player has to guess the word before making 6 incorrect guesses.
 
 ## Features
 
+- 500-word dictionary with word-specific hints
 - Random word selection
-- Limited number of attempts
 - Letter-by-letter guessing
-- Win/Lose conditions
+- Dynamic Hangman stages
+- 6 incorrect guesses allowed
+- Input validation
+- Detection of already-guessed letters
+- Win and game-over conditions
+- File handling using `BufferedReader`
+- Uses `ArrayList` for storing words and guessed letters
 - Console-based interface
 
 ## Technologies Used
 
 - Java
 - VS Code
-
-## How to Run
-
-1. Clone this repository.
-2. Open the project in VS Code or any Java IDE.
-3. Compile and run the Java file.
-
-## Future Improvements
-
-- Add difficulty levels
-- Add categories for words
-- Create a GUI version using Java Swing/JavaFX
+- File Handling
+- ArrayList
+- Random
+- Scanner
